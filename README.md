@@ -1,2 +1,2 @@
 # todoListApp
-A simple todoList app / Java / SQLite.
+A simple todoList app in Java using SQLite.
