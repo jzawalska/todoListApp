@@ -1,0 +1,8 @@
+CREATE TABLE Tasks
+(
+    TaskId INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    TaskName TEXT(256) NOT NULL,
+    Status TEXT(16) NOT NULL,
+    Priority INT NOT NULL,
+    Note TEXT(256)
+);
